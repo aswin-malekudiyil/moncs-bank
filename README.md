@@ -1,8 +1,13 @@
-# React + Vite
+<h1>Moncs Bank</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>A simple web page created as part of my react + Tailwind CSS learning process.</h3>
 
-Currently, two official plugins are available:
+<h3>Technologies used</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ol>
+  <li><a href="https://vitejs.dev/">Vite Js</a></li>
+  <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
+  <li><a href="https://react.dev/">React Js </a></li>
+</ol>
+
+<p>The responsivness of the website is yet to be coded. Will be done in the coming days.</p>
