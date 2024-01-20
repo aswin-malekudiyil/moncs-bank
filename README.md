@@ -11,3 +11,7 @@
 </ol>
 
 <p>The responsivness of the website is yet to be coded. Will be done in the coming days.</p>
+
+<h2>Screenshot</h2>
+
+<img src="Screenshots/moncs-bank-landing.PNG" alt="moncs-bank-landing" />
