@@ -15,3 +15,7 @@
 <h2>Screenshot</h2>
 
 <img src="Screenshots/moncs-bank-landing.PNG" alt="moncs-bank-landing" />
+
+<img src="Screenshots/our-services.PNG" alt="services-section-screenshot" />
+
+<img src="Screenshots/moncs-bank-footer.PNG" alt="footer-screenshot" />
