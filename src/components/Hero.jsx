@@ -1,9 +1,9 @@
 import card from '../assets/credit-card.png';
 const Hero = () => {
   return (
-    <div className="ml-10 mt-[80px] text-white flex justify-around">
+    <div className="ml-10 mt-[80px] text-white flex justify-around max-sm:ml-2 max-sm:block">
 
-       <div className="w-2/5 text-wrap">
+       <div className="w-2/5 text-wrap max-sm:w-80">
        <h1 className="text-4xl font-bold">Welcome to <span className="bg-gradient-to-r from-green-500 to-emerald-300 text-transparent bg-clip-text">Moncs</span></h1>
         <h2 className="pt-10">Your Trusted Partner in Financial Excellence.</h2>
         <h2 className="pt-5">Elevate your financial journey with us. Discover personalized solutions, seamless experiences, and a commitment to your prosperity. Welcome to a world of banking redefined.</h2>
